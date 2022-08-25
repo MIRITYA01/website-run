@@ -1,0 +1,54 @@
+html {
+    background-color: #a98dde; 
+  }
+
+h1{
+    
+    color: rgb(200, 28, 79);
+    background-color: rgb(53, 22, 82);
+    font-family:'seogoe UI';
+    font-size:xx-large;
+    text-align: center;
+
+}
+.hearder
+
+{
+   display:flex;
+   background-color:brown;
+   align-content: center;
+   color:violet;
+}
+.comp2
+{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+h2{
+    display:flex;
+    flex-direction:column;
+    color:unset;
+}
+footer{
+
+    height:200px;
+}
+button{
+    color:black;
+    padding:0 20px;
+    margin-top: 5%;
+    margin-left: 2%;
+    background-color: black;
+    color: white;
+}
+#five{
+    display:flex;
+    flex-direction:column;
+    
+}
+#six{
+    margin-left: 70%;
+    float:right;
+    flex-direction: column;
+}
